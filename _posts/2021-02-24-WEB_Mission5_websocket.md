@@ -1,12 +1,4 @@
----
-layout: post
-title: "Web Mission5 - WebSocket 구현하기"
-author: [rxdcxdrnine]
-tags: ["Web"]
-image: ../assets/images/post-WEB-Mission5/websocket_0.png
-description: "Socket.io 를 이용한 웹소켓 구현"
-featured: false
----
+
 
 WEB 팀의 Mission 5는 Socket.io를 이용한 웹소켓 구현입니다. 웹 스터디 팀의 코어 멤버인 형진 님이 미션 수행 목표와 웹 소켓에 관한 자세한 설명을 아래 노션 문서에 작성해 주셨습니다.
 
